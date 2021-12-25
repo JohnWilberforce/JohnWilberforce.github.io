@@ -22,7 +22,6 @@ html{
     transform: rotate(270deg)
     }
  body {
-     overflow: hidden;
      min-width: 940px;
      min-height:100hv;
        background: linear-gradient(to right, #9c27b0, #8ecdff);
