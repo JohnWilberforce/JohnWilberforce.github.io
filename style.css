@@ -5,6 +5,7 @@
     }
 html{
         min-width: 940px;
+        min-height:100hv;
     }
     .pic1 img{
     position: absolute;
