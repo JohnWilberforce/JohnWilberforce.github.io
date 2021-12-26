@@ -83,16 +83,8 @@ a{
     font-size: 5px;
     width: 100%;
 }
-h4{
-position: absolute;
-left: 11%;
-top:67%;
-}
     
-
 body {
-    min-width: 578px;
-    min-height:742px;
     
       background: linear-gradient(to right, #9c27b0, #8ecdff);
       text-align: center;
@@ -130,11 +122,6 @@ body {
     html{
         min-width: 940px;
     }
-    body {
-     height: 100hv;
-    min-width: 940px;
-       background: linear-gradient(to right, #9c27b0, #8ecdff);
-       }
  .content h2{
  font-family: Comic Sans MS;
      text-align: left;
